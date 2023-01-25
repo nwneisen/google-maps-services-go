@@ -7,8 +7,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"googlemaps.github.io/maps"
-	"googlemaps.github.io/maps/metrics"
+	"github.com/nwneisen/google-maps-services-go"
+	"github.com/nwneisen/google-maps-services-go/metrics"
 )
 
 type testReporter struct {

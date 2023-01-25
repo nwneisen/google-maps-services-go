@@ -25,7 +25,7 @@ import (
 	"strings"
 
 	"github.com/kr/pretty"
-	"googlemaps.github.io/maps"
+	"github.com/nwneisen/google-maps-services-go"
 )
 
 var (
